@@ -117,14 +117,16 @@ footer{
 	height: 10em;
 	padding: 2em;
 	text-align: center;
-}
+	text-decoration: none;
 
 }
+
 footer>a{
 	text-align: center;
 	list-style-type: none;
 	margin: auto;
 	text-decoration: none;
+	color:rgba(143,150,178,0.9);
 }
 footer h5 {
 	color:rgba(143,150,178,0.9);
