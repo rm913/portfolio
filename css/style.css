@@ -88,20 +88,41 @@ font-family: 'Satisfy', cursive;
 	padding: 1em;
 	text-align: center;
 	margin-left: 8em;
-	height: 12em;
+	height: auto;
 	margin-bottom: 2em;
 }
 .boxes{
-	margin: 3em 5em;
+	/*margin: 3em 5em;*/
+	margin-left: 8em;
+	margin-right: auto;
+}	
+#wordcloud{
+	width: 40em;
+	height: auto;
+}
+.project-heading{
+	background-color: rgba(143, 150, 178, 0.6);
+	width: 30em;	
+	height: 12em;
+	font-family: 'Satisfy', cursive;
+	text-align: center;
+	margin:auto;
+	padding-top: 1.2em;
+
+}
+.project-heading h2{
+	font-size: 3em;
 }
 .box{
 	width: 13em;
 	background-color:rgba(143,150,178,0.2);
 	padding: 1em;
 	text-align: center;
-	margin: auto 1em;
+	margin: 1em;
 	float: left;
+	font-family: 'Open Sans Condensed', sans-serif;
 	}
+	
 	.contactme{
 		margin-top: 3em;
 	}
