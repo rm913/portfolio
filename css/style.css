@@ -81,6 +81,12 @@ font-family: 'Satisfy', cursive;
 .heading h2{
 	font-size: 3em;
 }
+.about .description{
+	font-size: 1.5em;
+	width: 25em;
+	padding: 1.5em;
+	margin-left: 5.3em;
+}
 .description{
 	float:left;
 	background-color: rgba(143, 150, 178, 0.2);
@@ -91,6 +97,7 @@ font-family: 'Satisfy', cursive;
 	height: auto;
 	margin-bottom: 2em;
 	font-family: 'Open Sans Condensed', sans-serif;
+
 }
 .boxes{
 	/*margin: 3em 5em;*/
