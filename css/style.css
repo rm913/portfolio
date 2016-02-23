@@ -8,13 +8,13 @@ position: fixed;
 z-index: 9999;
 background-color: rgba(143, 150, 178, 0.3);
 background-size: cover;
-width: 84.5em;
+width: 100%;
 }
 nav ul{
 	list-style: none;
 	display: inline-block;
 	float: right;
-	padding-right: 1em;
+	padding-right: 3em;
 }
 nav li {
 	float:left;
@@ -48,7 +48,7 @@ nav li a{
 	padding-top: 4em;
 	background-image: url('../img/dove.jpg');
 	background-repeat: no-repeat;
-	background-size: 90em;
+	background-size: cover;
 	height: 35em;
 	font-family: 'Rock Salt', cursive;
 }
@@ -88,12 +88,11 @@ font-family: 'Satisfy', cursive;
 	margin-left: 5.3em;
 }
 .description{
-	float:left;
+	float:right;
 	background-color: rgba(143, 150, 178, 0.2);
 	width: 40em;
 	padding: 1em;
 	text-align: center;
-	margin-left: 8em;
 	height: auto;
 	margin-bottom: 2em;
 	font-family: 'Open Sans Condensed', sans-serif;
