@@ -81,6 +81,9 @@ font-family: 'Satisfy', cursive;
 .heading h2{
 	font-size: 3em;
 }
+.about{
+	margin: 2em;
+}
 .about .description{
 	font-size: 1.5em;
 	width: 25em;
