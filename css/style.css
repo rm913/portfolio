@@ -1,5 +1,5 @@
 body{
-	background-color: rgba(143, 150, 178, 0.3);
+	background-color: rgba(24,67,82,1);
 }
 nav{
 
@@ -89,6 +89,8 @@ font-family: 'Satisfy', cursive;
 .about .description{
 	font-size: 1.5em;
 	width: 25em;
+	font-weight: 700;
+	border: 0.3em solid white;
 	padding: 1.5em;
 	margin-left: 5.3em;
 }
@@ -126,7 +128,7 @@ font-family: 'Satisfy', cursive;
 }
 .box{
 	width: 13em;
-	background-color:rgba(143,150,178,0.2);
+	background-color: rgba(143,150,178,0.7);
 	padding: 1em;
 	text-align: center;
 	margin: 1em;
