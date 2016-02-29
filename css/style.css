@@ -103,9 +103,8 @@ font-family: 'Satisfy', cursive;
 
 }
 .boxes{
-	/*margin: 3em 5em;*/
-	margin-left: 8em;
-	margin-right: auto;
+	width: 60%;
+    margin: 0 auto;
 }	
 #wordcloud{
 	height: auto;
