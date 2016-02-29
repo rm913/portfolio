@@ -112,6 +112,7 @@ font-family: 'Satisfy', cursive;
 }	
 #wordcloud{
 	height: auto;
+	 background-color: white;
 }
 .project-heading{
 	background-color: rgba(143, 150, 178, 0.6);
