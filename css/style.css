@@ -133,7 +133,9 @@ font-family: 'Satisfy', cursive;
 	}
 	
 	.contactme{
-		margin-top: 3em;
+		    width: 80%;
+		    margin: 4em auto;
+
 	}
 	.contactme .description{
 		height: auto;
