@@ -92,7 +92,6 @@ font-family: 'Satisfy', cursive;
 	font-weight: 700;
 	border: 0.3em solid white;
 	padding: 1.5em;
-	margin-left: 5.3em;
 }
 .description{
 	float:right;
@@ -103,7 +102,6 @@ font-family: 'Satisfy', cursive;
 	height: auto;
 	margin-bottom: 2em;
 	font-family: 'Open Sans Condensed', sans-serif;
-	margin-right: 2em;
 
 }
 .boxes{
@@ -143,7 +141,8 @@ font-family: 'Satisfy', cursive;
 
 	}
 	.contactme .description{
-		height: auto;
+		height: auto
+		border: .5em solid #fff;
 	}
 	.contactme .form-input, .contactme form h2{
 		margin: 1em;
