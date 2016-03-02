@@ -142,7 +142,7 @@ font-family: 'Satisfy', cursive;
 
 	}
 	.contactme .description{
-		height: auto
+		height: auto;
 		border: .5em solid #fff;
 	}
 	.contactme .form-input, .contactme form h2{
