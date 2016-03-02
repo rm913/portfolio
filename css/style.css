@@ -131,7 +131,7 @@ font-family: 'Satisfy', cursive;
 	padding: 1em;
 	text-align: center;
 	margin: 1em;
-	float: left;
+	display: inline-block;
 	font-family: 'Open Sans Condensed', sans-serif;
 	}
 	
