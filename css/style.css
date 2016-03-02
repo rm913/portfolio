@@ -102,7 +102,7 @@ font-family: 'Satisfy', cursive;
 	padding: 1em;
 	text-align: center;
 	margin: auto 1em;
-	float: left;
+	display: inline-block;
 	}
 	.contactme{
 		margin-top: 3em;
