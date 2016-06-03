@@ -103,6 +103,10 @@ font-family: 'Satisfy', cursive;
 	font-family: 'Open Sans Condensed', sans-serif;
 
 }
+.description a{
+	color: white;
+    text-decoration: none;
+}
 .boxes{
 	width: 90%;
 	margin: 0 auto;
@@ -135,7 +139,7 @@ font-family: 'Satisfy', cursive;
 	font-family: 'Open Sans Condensed', sans-serif;
 	}
 	
-	.contactme{
+/**	.contactme{
 		    width: 80%;
 		    margin: 4em auto;
 
@@ -143,7 +147,7 @@ font-family: 'Satisfy', cursive;
 	.contactme .description{
 		height: auto;
 
-	}
+	} **/ 
 	.contactme .form-input, .contactme form h2{
 		margin: 1em;
 		font-family: 'Rock Salt', cursive;
