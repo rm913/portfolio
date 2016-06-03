@@ -90,7 +90,6 @@ font-family: 'Satisfy', cursive;
 	font-size: 1.5em;
 	width: 25em;
 	font-weight: 700;
-	border: 0.3em solid white;
 	padding: 1.5em;
 }
 .description{
@@ -143,7 +142,7 @@ font-family: 'Satisfy', cursive;
 	}
 	.contactme .description{
 		height: auto;
-		border: .5em solid #fff;
+
 	}
 	.contactme .form-input, .contactme form h2{
 		margin: 1em;
